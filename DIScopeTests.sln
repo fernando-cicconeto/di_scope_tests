@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIScopeTests", "DIScopeTests\DIScopeTests.csproj", "{E97FCEF5-0AB7-43E5-B6F1-8AAAD16530FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97FCEF5-0AB7-43E5-B6F1-8AAAD16530FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97FCEF5-0AB7-43E5-B6F1-8AAAD16530FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97FCEF5-0AB7-43E5-B6F1-8AAAD16530FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97FCEF5-0AB7-43E5-B6F1-8AAAD16530FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
